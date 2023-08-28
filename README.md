@@ -110,7 +110,7 @@ Amsterdam2021
 Amsterdam2021!
 Amsterdam2022
 Amsterdam2022!
-Amsterdam2023
+Amsterdam202
 Amsterdam2023!
 Amsterd@m
 Amsterd@m!
@@ -135,7 +135,7 @@ Amsterd@m2023!
 @mst3rdam2022
 @mst3rdam2022!
 @mst3rdam2023
-@mst3rdam2023!
+@mst3rda2023!
 @mst3rd@m
 @mst3rd@m!
 @mst3rd@m2021
