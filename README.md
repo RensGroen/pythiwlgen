@@ -19,7 +19,7 @@ for example: sh ./createDictionary.sh ~/Downloads/file 1950
 
 <b>Example of an input file:</n>
 
-test
+test<br>
 Amsterdam
 
 <b>output (when parameter 2021 is passed):</b>
