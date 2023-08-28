@@ -11,10 +11,10 @@ Current shell script will call 3 functionalities:
 - add birth years to all the combinations. Starting with the year that you can insert as parameter.
 - adding exclamation marks to all possible passwords
 
-This script doesn't really tae into account wrong user input.
+This script doesn't really take into account wrong user input.
 
 <b>Usage:</b>
-sh ./createDictionary.sh {/path/to/input/file} {year}
+sh ./createDictionary.sh {/path/to/input/file} {year} <br>
 for example: sh ./createDictionary.sh ~/Downloads/file 1950
 
 <b>Example of an input file:</n>
